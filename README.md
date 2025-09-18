@@ -7,7 +7,7 @@ It helps educators or analysts quickly understand patterns in student scores, at
 ---
 
 ## Dataset
-The dashboard uses a dataset `student_data.csv` with the following columns:
+The dashboard uses a dataset `students_with_personas.csv` with the following columns:
 
 | student_id | name  | class | comprehension | attention | focus | retention | assessment_score | engagement_time |
 |------------|-------|-------|---------------|----------|-------|-----------|-----------------|----------------|
@@ -27,7 +27,7 @@ The dashboard uses a dataset `student_data.csv` with the following columns:
 ## How to Use
 
 1. Open Tableau Desktop or Tableau Public  
-2. Load `student_data.csv`  
+2. Load `students_with_personas.csv`  
 3. Open the dashboard workbook  
 4. Interact with the visualizations:
    - Click on a student in the table to filter the charts  
